@@ -1,4 +1,3 @@
-def gitAwesome():
-    print("Git is awesome!")
-    
-gitAwesome()
+userInput = str(input("Write something random here: "))
+
+print(userInput)
